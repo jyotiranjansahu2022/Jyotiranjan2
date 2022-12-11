@@ -1,0 +1,21 @@
+p{
+    border: 5px solid red;
+    border-style:dashed;
+}
+.border{
+    color:green;
+    border: 2px solid yellow;
+    border-style:dashed;
+}
+.border1{
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(33, 27, 153);
+    text-align: center;
+    border-style: double;
+}
+.border2{
+    color: rgb(255, 0, 0);
+    border: 3px solid black;
+    border-style: dotted;
+    text-align:center;
+}

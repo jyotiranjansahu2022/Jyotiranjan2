@@ -1,0 +1,78 @@
+.textbox{
+    float: right;  
+    
+}
+ul li{
+    float: left;
+    width: 100px;
+    text-transform: capitalize;
+    list-style-type: none;
+    font-size: kalim park,sans-serif;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li a:hover{
+    color: hotpink;
+}
+b{
+    color: rgba(16, 252, 220, 0.986);
+    border-bottom: 7px solid rgba(16, 252, 220, 0.986);
+}
+body{
+background: url(2186569.png) no-repeat;
+background-size: cover;
+}
+.cover{
+    border: 1px solid black;
+    text-align: center;
+    width: 300px;
+    height: 450px;
+    position: absolute;
+    left: 10%;
+    top: 20%;
+    border-radius: 8px;
+    box-shadow:1px 0PX 16PX 7px;
+    color: hotpink;
+    opacity: 0.6;
+    border-radius: 8px;
+}
+.coverimage{
+    text-align: center;
+
+}
+img{
+    border-radius: 20px;
+    position: absolute;
+    left: 20%;
+    top: 10%;
+    margin: -10px -9px;
+    opacity: 0.7;
+}
+.text{
+    position: absolute;
+    left: 31%;
+    top: 50%;
+    margin: -1px 10px;
+}
+h1{
+    color: white;
+  font-family: kulim park,sans-serif;
+  line-height: 7px;
+  font-weight: normal;
+
+
+}
+
+h2{
+    color: white;
+    font-family: kulim park,sans-serif;
+  font-size: 14px;
+    font-weight: normal;
+  opacity: 0.3;
+  margin-top: -6px;
+}
+.line{
+    
+}

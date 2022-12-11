@@ -1,0 +1,39 @@
+div{
+    background-color: sienna;
+}
+h1{
+    background:red;
+}
+body{
+    font-size: medium;
+    background-color: royalblue;
+    background: url('./5559.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+}
+h2{
+    font-size: 100px;
+    height: 100px;
+    color:blueviolet;
+    background:lightpink;
+}
+p{
+    font-size:26px;
+    background-color: #fff;
+}
+p,.group{background:green;
+
+}
+p,.group{background:rgb(102, 0, 128);
+
+}
+h3{
+    background: purple;
+}
+h4{
+    background:#670;
+}
+
+marquee{
+    font-size: 29px; 
+}
